@@ -12,9 +12,11 @@
   "dependencies": {
     "@babel/code-frame": "^7.24.7",
     "@babel/standalone": "^7.24.7",
+    "@google/generative-ai": "^0.12.0",
     "@monaco-editor/react": "^4.6.0",
     "@tauri-apps/api": "^1",
     "javascript-playgrounds": "^1.2.5",
+    "lucide-react": "^0.395.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-live": "^4.1.6"
